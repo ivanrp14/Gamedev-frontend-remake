@@ -1,5 +1,5 @@
 # Gamedev frontend remake
 
-Reserva del remake del frontend de GameDev.
+Placeholder for a remake of the GameDev frontend.
 
-El repositorio está vacío: no hay código, dependencias ni historial de la aplicación. El frontend que sí tiene páginas (login, perfil, estadísticas, tutorial, idiomas) es [gamedev-frontend](https://github.com/ivanrp14/gamedev-frontend).
+The repository is empty: there is no code, no dependencies, and no application history. The frontend that does have pages (login, profile, stats, tutorial, languages) is [gamedev-frontend](https://github.com/ivanrp14/gamedev-frontend).
